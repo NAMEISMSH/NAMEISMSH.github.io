@@ -3,7 +3,7 @@ author: MOONSIHYEON
 email: supergerrad@ajou.ac.kr
 description: > 안녕하세요 문시현의 블로그입니다.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: NAMEISMSH.github.io
+baseurl: "/"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -33,7 +33,7 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
